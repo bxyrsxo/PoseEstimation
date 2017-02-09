@@ -1,0 +1,1 @@
+/home/rsxo/pcl/Journal1/extrema/build/CMakeFiles/search.dir
