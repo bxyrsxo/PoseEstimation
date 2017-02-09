@@ -1,0 +1,1 @@
+/home/rsxo/pcl/Journal1/pose_recog/exp4/build/CMakeFiles/search.dir
